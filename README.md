@@ -2,9 +2,9 @@
 
 ![gitartwork](gitartwork.svg)
 
-- 🔭 I’m currently working on data science course for students with different background
-- 🌱 I’m currently learning advanced process mining
-- ⚡ Fun fact: I love sports especially football, volleyball, snowabording, climbing and dancing! 👯
+- 🔭 I’m currently working on a data science course for students with different background
+- 🌱 I’m currently learning the use cases of large language models in process mining
+- ⚡ Fun fact: I love sports, especially football, volleyball, snowboarding, climbing, and dancing! 👯
 
 
 - <!-- - 👯 I’m looking to collaborate on ...
