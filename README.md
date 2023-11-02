@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on data science course for students with different background
 - 🌱 I’m currently learning advanced process mining
-- ⚡ Fun fact: I love sports especially football, volleyball, snowabording, climbing and hiking!
+- ⚡ Fun fact: I love sports especially football, volleyball, snowabording, climbing and dancing! 👯
 
 
 - <!-- - 👯 I’m looking to collaborate on ...
