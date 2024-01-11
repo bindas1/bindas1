@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on a data science course for students with different background
 - 🌱 I’m currently learning the use cases of large language models in process mining
 - ⚡ Fun fact: I love sports, especially football, volleyball, snowboarding, climbing, and dancing! 👯
+- 🎹 I graduated from a first degree music school and play piano
 
 
 - <!-- - 👯 I’m looking to collaborate on ...
